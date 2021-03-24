@@ -68,7 +68,6 @@
             "git -C \"repos/storage-shopware-dal\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-storage-shopware-dal.git\" \"repos/storage-shopware-dal\"",
             "git -C \"repos/storage-native\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-storage-native.git\" \"repos/storage-native\"",
             "git -C \"repos/storage-base\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-storage-base.git\" \"repos/storage-base\"",
-            "git -C \"repos/sdk\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-sdk.git\" \"repos/sdk\"",
             "git -C \"repos/portal-base\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-portal-base.git\" \"repos/portal-base\"",
             "git -C \"repos/lib-sdk\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-lib-sdk.git\" \"repos/lib-sdk\"",
             "git -C \"repos/dataset-base\" pull || git clone \"https://github.com/HEPTACOM/heptaconnect-dataset-base.git\" \"repos/dataset-base\"",
