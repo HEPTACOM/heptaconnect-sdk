@@ -77,5 +77,11 @@
             "@composer require \"heptacom/heptaconnect-lib-sdk:>=0.0.1\" --update-with-all-dependencies",
             "heptaconnect-sdk sdk:install"
         ]
+    },
+    "support": {
+        "issues": "https://github.com/HEPTACOM/heptaconnect-sdk/issues",
+        "source": "https://github.com/HEPTACOM/heptaconnect-sdk",
+        "docs": "https://connect.heptacom.de/",
+        "rss": "https://connect.heptacom.de/feed/rss2.xml"
     }
 }
