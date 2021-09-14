@@ -4,7 +4,7 @@
 ## Description
 
 This is a HEPTAconnect package to assist programming portals, datasets, storages and integrations.
-Read more under [Overview](../heptaconnect-docs).
+Read more in the [documentation](https://heptaconnect.io/).
 
 
 ## System requirements
